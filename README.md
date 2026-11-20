@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Developer 👋
 
 **Node.js backend developer who turns messy, manual problems into reliable, scalable tech solutions.**
 
